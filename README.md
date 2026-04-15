@@ -1,130 +1,113 @@
 # ZodiacChain
 
-ZodiacChain is a two-dimension betting protocol inspired by terrestrial animals and the Chinese zodiac.
+ZodiacChain is a two-dimension betting protocol concept inspired by terrestrial animals and the Chinese zodiac, designed around verifiable randomness, transparent rules, and a testnet-first development path on Polygon.
 
-It is designed around verifiable randomness, transparent rules, and a testnet-first development approach.
+## Current Focus
 
----
+ZodiacChain is currently focused on:
 
-## 🎯 Project Vision
+- public documentation and grant preparation
+- MVP scope definition for testnet
+- fairness dashboard planning
+- favorable-jurisdiction-first commercial positioning
 
-ZodiacChain aims to create a fairness-first betting infrastructure where:
+## Product Overview
 
-- All draws are verifiable
-- Rules are transparent and auditable
-- Economic risks are controlled at protocol level
-- User experience is simple and intuitive
+### Terrestrial Dimension
+- 25 terrestrial animals
+- number mapping from 00 to 99
+- multiple interpretations such as animal, group, and exact number
 
----
+### Celestial Dimension
+- official result represented as **Número Celeste Exato (01-60)**
+- celestial animal and element are derived deterministically from that result
+- designed to be easy to explain and easy to verify publicly
 
-## 🧠 Core Concepts
+### Combo Layer
+- combines terrestrial and celestial outcomes
+- designed for public probability tables and transparent payout logic
 
-### 1. Terrestrial Dimension
-Based on the traditional 25-animal system.
+## Fairness & Protection Principles
 
-- Numbers: 00–99
-- Each animal represents 4 numbers
-- Multiple betting modalities (animal, group, number)
+- verifiable randomness via Chainlink VRF is the intended randomness model
+- transparent rules and public documentation
+- concentration cap logic documented at the product level
+- testnet-first approach before any regulated commercial stage
 
----
+## Compliance Positioning
 
-### 2. Celestial Dimension
+ZodiacChain follows a **favorable-jurisdiction-first** commercial strategy.
 
-Based on a system inspired by the Chinese sexagenary cycle.
+- grant phase and testnet phase do **not** include public real-money launch
+- Brazil is excluded from phase 1 commercial launch except where specifically authorized by the competent authority
+- public token presale is out of scope for the current funding round
 
-- Result: number from **01 to 60**
-- Each animal = 5 numbers
-- Element derived from result
+## Core Team
 
-Key modalities:
-- Animal Celeste
-- Elemento Celeste
-- Número Celeste Exato
+### Edson Marinho Gomes — Founder, Product & Backend Lead
+Recife, Brazil · 6 years · Full-time
 
----
+Key competencies:
+- Product strategy & roadmap alignment
+- Backend architecture & business-rule design
+- Cross-functional execution leadership
 
-### 3. Combined Bets (Combo Layer)
+LinkedIn: https://www.linkedin.com/in/edmgomes/
 
-Users can combine both dimensions:
+### Bismark Jamerson — Backend Engineer & Software Analyst
+Recife, Brazil · 6 years · Full-time
 
-- Terrestrial + Celestial
-- Independent probabilities
-- Multipliers up to ~300x+
+Key competencies:
+- Backend systems design
+- Requirements analysis & technical translation
+- Integration and problem-solving execution
 
----
+LinkedIn: https://www.linkedin.com/in/bismark-jamerson-538b62163/
 
-## 🔐 Fairness & Security
+### José Rodrigues Lins Neto — QA Lead
+Recife, Brazil · 13+ years · Full-time
 
-- Verifiable randomness (Chainlink VRF planned)
-- On-chain validation rules
-- No hidden logic
-- Transparent bet settlement
+Key competencies:
+- Test strategy & validation planning
+- Defect management & release quality control
+- Quality assurance process design
 
----
+LinkedIn: https://www.linkedin.com/in/jos%C3%A9-rodrigues-lins-neto-528aa050/
 
-## 🛡️ Economic Protection Layer
+### Italo Melo — Business Development & Partnerships Lead
+Recife, Brazil · 4+ years · Full-time
 
-- Minimum bet: $1
-- Maximum bet per round: $500
-- Max payout cap: $50,000
-- Wallet daily limit: $2,000
-- Cooldown between bets
+Key competencies:
+- Partnership outreach & relationship management
+- Stakeholder communication & grant coordination
+- Business negotiation & international positioning
 
-### Concentration Rule
-No single outcome can receive more than 40% of the total pool.
+LinkedIn: not publicly listed yet.
 
----
+## Critical Roles Still to Be Filled
 
-## 🌍 Regulatory Approach
+- Smart Contract / Solidity Lead
+- Frontend Web3 Engineer
+- Legal & Regulatory Counsel
+- External Security Auditor
 
-ZodiacChain follows a **favorable-jurisdiction-first strategy**.
+## Public Links
 
-- No real-money operations in restricted regions
-- Initial focus on testnet and infrastructure
-- Future deployment aligned with licensed jurisdictions
+- Email: zodiacchain.protocol@gmail.com
+- X/Twitter: @ZodiacChainXYZ
+- GitHub organization: https://github.com/ZodiacChain
+- GitHub docs repository: https://github.com/ZodiacChain/zodiacchain-docs
+- Telegram: @ZodiacChain
 
----
+## Repository Purpose
 
-## 🚧 Current Stage
+This repository is intended to host the public documentation and grant materials for ZodiacChain, including:
 
-- Documentation completed
-- Grant preparation in progress
-- MVP scope definition ongoing
+- whitepaper
+- funding memos
+- roadmap notes
+- public project documentation
 
----
+## Disclaimer
 
-## 🗺️ Roadmap (High-level)
-
-1. Public documentation
-2. Grant applications
-3. Testnet MVP
-4. Fairness dashboard
-5. Regulatory structuring
-6. Mainnet (future)
-
----
-
-## 🤝 Team
-
-Core team formed with experience in backend development, QA, and business operations.
-
-Additional roles to be filled:
-- Smart contract engineer
-- Frontend Web3
-- Legal / regulatory
-- Security audit
-
----
-
-## 📬 Contact
-
-Email: zodiacchain.protocol@gmail.com  
-X: @ZodiacChain  
-
----
-
-## ⚠️ Disclaimer
-
-ZodiacChain is currently under development.
-
-No real-money betting is available at this stage.
+ZodiacChain is under development. No public real-money betting product is available at this stage.
