@@ -1,113 +1,68 @@
-# ZodiacChain
+# 🪐 ZodiacChain
 
-ZodiacChain is a two-dimension betting protocol concept inspired by terrestrial animals and the Chinese zodiac, designed around verifiable randomness, transparent rules, and a testnet-first development path on Polygon.
+**Decentralized & Verifiable Betting Infrastructure on Polygon**
 
-## Current Focus
+ZodiacChain is a next-generation betting protocol concept inspired by the cultural richness of terrestrial and celestial zodiacs. It is architected as a **trust-minimized infrastructure**, prioritizing provable fairness, mathematical transparency, and a strict **testnet-first** development path.
 
-ZodiacChain is currently focused on:
+---
 
-- public documentation and grant preparation
-- MVP scope definition for testnet
-- fairness dashboard planning
-- favorable-jurisdiction-first commercial positioning
+## 🚀 Current Project Status
+* **Phase:** Technical Documentation & MVP Planning.
+* **Infrastructure:** Targeting Polygon PoS / zkEVM.
+* **Core Oracles:** Integration of Chainlink VRF & Chainlink Automation.
+* **Commercial Posture:** Favorable-jurisdiction-first (Non-operational phase).
 
-## Product Overview
+---
 
-### Terrestrial Dimension
-- 25 terrestrial animals
-- number mapping from 00 to 99
-- multiple interpretations such as animal, group, and exact number
+## 📂 Repository Navigation (Quick Links)
 
-### Celestial Dimension
-- official result represented as **Número Celeste Exato (01-60)**
-- celestial animal and element are derived deterministically from that result
-- designed to be easy to explain and easy to verify publicly
+This repository serves as the central hub for our technical and strategic documentation. Use the links below to access our core materials:
 
-### Combo Layer
-- combines terrestrial and celestial outcomes
-- designed for public probability tables and transparent payout logic
+* **[Strategic Whitepaper v2.5](./whitepaper/)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
+* **[Chainlink Grant Memo v1.0](./grant/)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
+* **[Technical Architecture](./architecture/)**: On-chain validation flows and smart contract interaction diagrams.
 
-## Fairness & Protection Principles
+---
 
-- verifiable randomness via Chainlink VRF is the intended randomness model
-- transparent rules and public documentation
-- concentration cap logic documented at the product level
-- testnet-first approach before any regulated commercial stage
+## 🛡️ Core Trust Primitives
 
-## Compliance Positioning
+ZodiacChain moves away from "black-box" betting systems by making every step of the process verifiable:
 
-ZodiacChain follows a **favorable-jurisdiction-first** commercial strategy.
+1.  **Verifiable Randomness:** Powered by **Chainlink VRF**. Every draw is cryptographically secured and unpredictable.
+2.  **Autonomous Execution:** Managed via **Chainlink Automation**. The protocol operates as an impartial infrastructure, removing human intervention from the 4h and daily draw cycles.
+3.  **Deterministic Logic:** Outcomes like the *Exact Celestial Number (01-60)* and *Terrestrial Mapping* are derived through open, auditable smart contract code.
+4.  **Visible Protection:** Concentration caps and solvency checks are enforced on-chain to protect the protocol's liquidity.
 
-- grant phase and testnet phase do **not** include public real-money launch
-- Brazil is excluded from phase 1 commercial launch except where specifically authorized by the competent authority
-- public token presale is out of scope for the current funding round
+---
 
-## Core Team
+## 👥 Core Team
 
-### Edson Marinho Gomes — Founder, Product & Backend Lead
-Recife, Brazil · 6 years · Full-time
+Based in **Recife, Brazil**, our team brings decades of combined experience in backend engineering, software analysis, and quality assurance.
 
-Key competencies:
-- Product strategy & roadmap alignment
-- Backend architecture & business-rule design
-- Cross-functional execution leadership
+* **Edson Marinho Gomes** — *Founder, Product & Backend Lead* | [LinkedIn](https://www.linkedin.com/in/edmgomes/)
+* **Bismark Jamerson** — *Backend Engineer & Software Analyst* | [LinkedIn](https://www.linkedin.com/in/bismark-jamerson-538b62163/)
+* **José Rodrigues Lins Neto** — *QA Lead* | [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rodrigues-lins-neto-528aa050/)
+* **Italo Melo** — *Business Development & Partnerships Lead*
 
-LinkedIn: https://www.linkedin.com/in/edmgomes/
+---
 
-### Bismark Jamerson — Backend Engineer & Software Analyst
-Recife, Brazil · 6 years · Full-time
+## ⚖️ Compliance & Strategy
 
-Key competencies:
-- Backend systems design
-- Requirements analysis & technical translation
-- Integration and problem-solving execution
+ZodiacChain follows a conservative and transparent regulatory roadmap:
+* **Testnet Focus:** The current funding and development round is strictly for technical demonstration.
+* **Geographic Restrictions:** Brazil is excluded from Phase 1 commercial operations unless authorized by competent authorities.
+* **No Early Token Sales:** Token issuance (ZDC) is not part of the current funding round and is reserved for future ecosystem governance.
 
-LinkedIn: https://www.linkedin.com/in/bismark-jamerson-538b62163/
+---
 
-### José Rodrigues Lins Neto — QA Lead
-Recife, Brazil · 13+ years · Full-time
+## 📢 Public Presence & Contact
 
-Key competencies:
-- Test strategy & validation planning
-- Defect management & release quality control
-- Quality assurance process design
+* **Email:** [zodiacchain.protocol@gmail.com](mailto:zodiacchain.protocol@gmail.com)
+* **X/Twitter:** [@ZodiacChainXYZ](https://x.com/ZodiacChainXYZ)
+* **Telegram:** [@ZodiacChain](https://t.me/ZodiacChain)
+* **GitHub Org:** [github.com/ZodiacChain](https://github.com/ZodiacChain)
 
-LinkedIn: https://www.linkedin.com/in/jos%C3%A9-rodrigues-lins-neto-528aa050/
+---
 
-### Italo Melo — Business Development & Partnerships Lead
-Recife, Brazil · 4+ years · Full-time
-
-Key competencies:
-- Partnership outreach & relationship management
-- Stakeholder communication & grant coordination
-- Business negotiation & international positioning
-
-LinkedIn: not publicly listed yet.
-
-## Critical Roles Still to Be Filled
-
-- Smart Contract / Solidity Lead
-- Frontend Web3 Engineer
-- Legal & Regulatory Counsel
-- External Security Auditor
-
-## Public Links
-
-- Email: zodiacchain.protocol@gmail.com
-- X/Twitter: @ZodiacChainXYZ
-- GitHub organization: https://github.com/ZodiacChain
-- GitHub docs repository: https://github.com/ZodiacChain/zodiacchain-docs
-- Telegram: @ZodiacChain
-
-## Repository Purpose
-
-This repository is intended to host the public documentation and grant materials for ZodiacChain, including:
-
-- whitepaper
-- funding memos
-- roadmap notes
-- public project documentation
-
-## Disclaimer
-
-ZodiacChain is under development. No public real-money betting product is available at this stage.
+## ⚠️ Disclaimer
+*ZodiacChain is currently under technical development. No public real-money betting products are available. All documentation is for demonstration and ecosystem grant purposes.*
