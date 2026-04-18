@@ -19,8 +19,8 @@ Our current phase is strictly focused on technical demonstration and documentati
 
 This repository serves as the central hub for our technical and strategic documentation. Use the links below to access our core materials:
 
-* **[Strategic Whitepaper v2.5](./whitepaper/)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
-* **[Chainlink Grant Memo v1.0](./grant/)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
+* **[Strategic Whitepaper](./whitepaper/)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
+* **[Chainlink Grant Memo](./grant/)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
 * **[Technical Architecture](./architecture/)**: On-chain validation flows and smart contract interaction diagrams.
 
 ---
