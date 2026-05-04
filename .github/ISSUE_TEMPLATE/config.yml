@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ZodiacChain Documentation
+    url: https://github.com/ZodiacChain/zodiacchain-docs
+    about: Main public documentation repository for ZodiacChain.
