@@ -1,0 +1,62 @@
+name: Documentation Task
+description: Use this template for ZodiacChain documentation, grant, roadmap, architecture, and asset tasks.
+title: "docs: "
+labels: ["documentation"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for documentation-related tasks in the ZodiacChain project.
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+      description: Explique claramente o que esta issue deve entregar.
+      placeholder: "Ex: Organizar o repositório público de documentação do ZodiacChain."
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+      description: Explique por que essa tarefa é importante para o projeto.
+      placeholder: "Ex: Este repositório será usado por grant reviewers, parceiros e colaboradores técnicos."
+    validations:
+      required: true
+
+  - type: textarea
+    id: checklist
+    attributes:
+      label: Checklist de Tarefas
+      description: Liste as tarefas necessárias para concluir esta issue.
+      value: |
+        - [ ] 
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Critérios de Aceite
+      description: Defina como saberemos que esta issue está concluída.
+      value: |
+        - [ ] 
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Referências / Observações
+      description: Links, documentos, decisões ou notas importantes.
+      placeholder: "Ex: Whitepaper v2.5, Chainlink Grant Memo, MVP Backlog..."
+    validations:
+      required: false
