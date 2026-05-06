@@ -21,7 +21,7 @@ This repository serves as the central hub for our technical and strategic docume
 
 * **[Strategic Whitepaper](whitepaper/ZodiacChain_Whitepaper.pdf)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
 * **[Chainlink Grant Memo](grant/ZodiacChain_ChainLink_Grant.pdf)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
-* - **Architecture & Diagrams**
+* **Architecture & Diagrams**
     - [Technical Architecture Overview](architecture/overview.md)
     - [Verifiable Draw Lifecycle Diagram](assets/diagrams/verifiable-draw-lifecycle.md)
    
