@@ -5,7 +5,7 @@ This directory houses the official grant applications and funding memos for the 
 ## 📄 Active Applications
 The primary document in this folder is our current proposal for the **Chainlink Build** program:
 
-**👉 [View ZodiacChain Chainlink Grant Memo v1.0 (PDF)](./ZodiacChain_ChainLink_Grant_v1.pdf)**
+**👉 [View ZodiacChain Chainlink Grant Memo (PDF)](./ZodiacChain_ChainLink_Grant.pdf)**
 
 ---
 
