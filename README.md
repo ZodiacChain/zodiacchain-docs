@@ -22,7 +22,10 @@ This repository serves as the central hub for our technical and strategic docume
 * **[Strategic Whitepaper](./whitepaper/)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
 * **[Chainlink Grant Memo](./grant/)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
 * **[Technical Architecture](./architecture/)**: On-chain validation flows and smart contract interaction diagrams.
-
+* - **Architecture & Diagrams**
+    - [Technical Architecture Overview](architecture/overview.md)
+    - [Verifiable Draw Lifecycle Diagram](assets/diagrams/verifiable-draw-lifecycle.md)
+   
 ---
 
 ## 🛡️ Core Trust Primitives
