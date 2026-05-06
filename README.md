@@ -19,9 +19,8 @@ Our current phase is strictly focused on technical demonstration and documentati
 
 This repository serves as the central hub for our technical and strategic documentation. Use the links below to access our core materials:
 
-* **[Strategic Whitepaper](./whitepaper/)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
-* **[Chainlink Grant Memo](./grant/)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
-* **[Technical Architecture](./architecture/)**: On-chain validation flows and smart contract interaction diagrams.
+* **[Strategic Whitepaper](whitepaper/ZodiacChain_Whitepaper.pdf)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
+* **[Chainlink Grant Memo](grant/ZodiacChain_ChainLink_Grant.pdf)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
 * - **Architecture & Diagrams**
     - [Technical Architecture Overview](architecture/overview.md)
     - [Verifiable Draw Lifecycle Diagram](assets/diagrams/verifiable-draw-lifecycle.md)
