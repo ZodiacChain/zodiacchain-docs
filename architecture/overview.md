@@ -68,25 +68,27 @@ flowchart TD
 
     MAP --> FD
     API --> FD
+```
+---
 
-4. Main Components
- 4.1 Frontend / Demo Interface
+##4. Main Components
+ ###4.1 Frontend / Demo Interface
 
  The frontend is the public-facing interface of the MVP.
 
  It allows users and reviewers to:
 
-  * view the active draw
-  * understand the draw lifecycle
-  * simulate or place testnet bets
-  * see draw results
-  * inspect the Fairness Dashboard
-  * follow verification steps
-  * access public transaction references when available
+  - view the active draw
+  - understand the draw lifecycle
+  - simulate or place testnet bets
+  - see draw results
+  - inspect the Fairness Dashboard
+  - follow verification steps
+  - access public transaction references when available
 
 The frontend should clearly state that the MVP is testnet-only and does not support real-money operation.
 
- 4.2 API / Mock API Layer
+ ###4.2 API / Mock API Layer
 
  The API layer provides structured data to the frontend.
 
@@ -94,23 +96,21 @@ The frontend should clearly state that the MVP is testnet-only and does not supp
 
  Expected responsibilities:
 
-  * return active draw data
-  * return bet type configuration
-  * calculate quote responses
-  * validate bet payloads
-  * return result data
-  * return fairness dashboard data
-  * expose event history
-  * expose protection summaries
+  - return active draw data
+  - return bet type configuration
+  - calculate quote responses
+  - validate bet payloads
+  - return result data
+  - return fairness dashboard data
+  - expose event history
+  - expose protection summaries
 
  Example API groups:
 
-  * /draws
-  * /bet-types
-  * /bets
-  * /wallets
-  * /fairness
-  * /events
-  * /randomness
-
-
+  - /draws
+  - /bet-types
+  - /bets
+  - /wallets
+  - /fairness
+  - /events
+  - /randomness
