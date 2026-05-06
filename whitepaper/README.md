@@ -5,7 +5,7 @@ This directory contains the core documentation for the **ZodiacChain** protocol.
 ## 📑 Official Document
 The current official version of the whitepaper is available below:
 
-**👉 [Download ZodiacChain Whitepaper v2.5 (PDF)](./ZodiacChain_Whitepaper_v2.5.pdf)**
+**👉 [Download ZodiacChain Whitepaper (PDF)](./ZodiacChain_Whitepaper.pdf)**
 
 ---
 
