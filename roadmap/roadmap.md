@@ -60,7 +60,7 @@ This roadmap is intentionally conservative. It does not describe a real-money la
 
 ### Key Deliverables
 
-- Whitepaper v2.5
+- Whitepaper
 - Chainlink-facing grant memo
 - MVP Scope
 - Draw Lifecycle Spec
