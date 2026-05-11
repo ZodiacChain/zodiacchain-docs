@@ -1,7 +1,7 @@
 # ZodiacChain — Public Roadmap
 
 **Version:** 1.0  
-**Status:** Draft  
+**Status:** Public Documentation  
 **Project:** ZodiacChain  
 **Phase:** Testnet MVP / Public Demonstration  
 

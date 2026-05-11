@@ -17,7 +17,7 @@ The protocol is structured around a dual-dimension system:
 * **Celestial Dimension:** An Exact Celestial Number (01–60) derivation for high-precision outcomes.
 
 ### Key Technical Pillars:
-1.  **Verifiable Randomness:** Powered by Chainlink VRF (Latest Version).
+1.  **Verifiable Randomness:** Chainlink VRF integration for verifiable draw randomness.
 2.  **Autonomous Execution:** Managed via Chainlink Automation for decentralized draw cycles.
 3.  **6-Step Security Flow:** Rigid on-chain validation for pool protection and solvency.
 4.  **Infrastructure-First Approach:** Focused on testnet demonstration and ecosystem grants.

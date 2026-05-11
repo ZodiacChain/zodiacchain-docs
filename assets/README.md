@@ -1,6 +1,6 @@
 # 🖼️ ZodiacChain — Visual Assets
 
-This directory contains the official visual assets, UI mockups, and architectural diagrams for the **ZodiacChain** project. 
+This directory contains the official brand assets and documentation diagrams for the **ZodiacChain** project. 
 
 These materials are intended for use in technical documentation, presentations, grant submissions, and public-facing content.
 
@@ -8,9 +8,8 @@ These materials are intended for use in technical documentation, presentations, 
 
 ## 📁 Contents
 
-* **Brand Assets (`logo.png`, `banner.png`):** The primary visual identity and banners used for GitHub, presentations, and social media.
-* **UI Mockups:** Early-stage interface designs of the public testnet flow and the verifiable Fairness Dashboard.
-* **Architecture Diagrams:** Visual representations of smart contract interactions and oracle integrations.
+* **Brand Assets (`logo.png`, `banner.png`):** The primary visual identity and banner used for GitHub, presentations, and social media.
+* **Verifiable Draw Lifecycle Diagram (`diagrams/verifiable-draw-lifecycle.md`):** Mermaid diagram showing the draw lifecycle from scheduling to public verification.
 
 ---
 
@@ -35,7 +34,7 @@ When utilizing ZodiacChain's logos and visual identity, please adhere to the fol
 
 ## ⚠️ Notes for Reviewers
 
-This directory contains only static media. There is no core protocol logic or smart contract code here. These assets represent the ZodiacChain identity and UI state, and should be referenced alongside our official `/whitepaper/` and `/grant/` documentation.
+This directory contains brand media and documentation diagrams. There is no core protocol logic or smart contract code here. These assets should be referenced alongside the official `/whitepaper/`, `/grant/`, `/roadmap/`, and `/architecture/` documentation.
 
 ---
 

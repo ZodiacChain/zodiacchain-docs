@@ -9,7 +9,7 @@ ZodiacChain is a next-generation betting protocol concept inspired by the cultur
 ## 🚀 Current Project Status & Funding Focus
 Our current phase is strictly focused on technical demonstration and documentation. We are not launching real-money operations at this stage.
 * **Phase Goals:** Delivering a Testnet MVP, a public Fairness Dashboard, and comprehensive open-source documentation.
-* **Infrastructure:** Targeting Polygon PoS / zkEVM.
+* **Infrastructure:** Polygon PoS, with Polygon Amoy Testnet as the initial MVP target network.
 * **Core Oracles:** Deep integration of Chainlink VRF (randomness) & Chainlink Automation (execution).
 * **Commercial Posture:** Favorable-jurisdiction-first (Non-operational phase).
 

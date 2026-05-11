@@ -1,7 +1,7 @@
 # ZodiacChain — Technical Architecture Overview
 
 **Version:** 1.0  
-**Status:** Draft  
+**Status:** Public Documentation  
 **Repository:** `zodiacchain-docs`  
 **Project Phase:** Testnet MVP / Public Demonstration  
 **Target Network:** Polygon Amoy Testnet  
