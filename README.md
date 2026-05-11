@@ -21,6 +21,7 @@ This repository serves as the central hub for our technical and strategic docume
 
 * **[Strategic Whitepaper](whitepaper/ZodiacChain_Whitepaper.pdf)**: Detailed protocol architecture, mathematical derivation models, and tokenomics.
 * **[Chainlink Grant Memo](grant/ZodiacChain_ChainLink_Grant.pdf)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
+* **[Public Roadmap](roadmap/roadmap.md)**: Milestone-based path from documentation and grant readiness to the testnet MVP and Fairness Dashboard.
 * **Architecture & Diagrams**
     - [Technical Architecture Overview](architecture/overview.md): High-level view of ZodiacChain’s architecture and core system components
     - [Verifiable Draw Lifecycle Diagram](assets/diagrams/verifiable-draw-lifecycle.md): Visual flow of the draw process from scheduling to public verification.
