@@ -13,7 +13,7 @@ ZodiacChain is being developed as a testnet-first verifiable draw infrastructure
 
 This roadmap shows how the project will move from public documentation and grant readiness toward a working MVP with a verifiable draw lifecycle, deterministic result derivation, Chainlink VRF integration, Chainlink Automation planning, and a public Fairness Dashboard.
 
-This roadmap is intentionally conservative. It describes only public documentation, testnet validation, and MVP readiness; any regulated commercial operation or token-related activity is outside the current scope.
+This roadmap is intentionally conservative. It describes only public documentation, testnet validation, and MVP readiness; any regulated commercial operation or ZDC-related activity is outside the current scope.
 
 ---
 
@@ -24,7 +24,7 @@ This roadmap is intentionally conservative. It describes only public documentati
 | Testnet-first | Validate the system safely before any production phase |
 | Verifiability-first | Make randomness, derivation, and results publicly inspectable |
 | Milestone-based execution | Build the MVP through clear, reviewable phases |
-| Compliance-aware | Avoid real-money operation before legal and regulatory review |
+| Compliance-aware | Avoid regulated commercial operation before legal and regulatory review |
 | Public documentation | Keep core technical and strategic documents accessible |
 
 ---
@@ -158,7 +158,7 @@ This roadmap is intentionally conservative. It describes only public documentati
 
 ---
 
-## 8. Phase 5 — Chainlink VRF & Automation Integration
+## 8. Phase 5 — Chainlink VRF & Automation Testnet Integration
 
 **Status:** Planned  
 **Goal:** Integrate verifiable randomness and lifecycle automation into the MVP.
@@ -209,7 +209,7 @@ This roadmap is intentionally conservative. It describes only public documentati
 
 ---
 
-## 10. Phase 7 — Beta Readiness & Future Review
+## 10. Phase 7 — Beta Readiness & Future Funding Review
 
 **Status:** Future  
 **Goal:** Prepare for broader testing, external review, and future product decisions.
@@ -238,11 +238,11 @@ This roadmap is intentionally conservative. It describes only public documentati
 
 The current roadmap does not include:
 
-- real-money operation;
-- mainnet launch;
-- token-related fundraising or distribution;
-- investment offering;
-- production betting platform;
+- regulated commercial operation;
+- mainnet deployment;
+- ZDC-related fundraising or distribution;
+- financial offering;
+- regulated production wagering service;
 - regulated market launch;
 - KYC/AML implementation;
 - production treasury management.

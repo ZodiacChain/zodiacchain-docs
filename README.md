@@ -7,7 +7,7 @@ ZodiacChain is a next-generation betting protocol concept inspired by the cultur
 ---
 
 ## 🚀 Current Project Status & Funding Focus
-Our current phase is strictly focused on technical demonstration and documentation. We are not launching real-money operations at this stage.
+Our current phase is strictly focused on technical demonstration and documentation. We are not launching regulated commercial operations at this stage.
 * **Phase Goals:** Delivering a Testnet MVP, a public Fairness Dashboard, and comprehensive open-source documentation.
 * **Infrastructure:** Polygon PoS, with Polygon Amoy Testnet as the initial MVP target network.
 * **Core Oracles:** Planned integration of Chainlink VRF (randomness) and Chainlink Automation (execution).
@@ -89,7 +89,7 @@ Based in **Recife, Brazil**, our team brings decades of combined experience in b
 ZodiacChain follows a conservative and transparent regulatory roadmap:
 * **Testnet Focus:** The current funding and development round is strictly for technical demonstration.
 * **Geographic Restrictions:** Brazil is excluded from Phase 1 commercial operations unless authorized by competent authorities.
-* **No Early Token Sales:** Token issuance (ZDC) is not part of the current funding round and is reserved for future ecosystem governance.
+* **No Early ZDC Activity:** ZDC-related ecosystem activity is not part of the current funding round and is reserved for future governance review.
 
 ---
 
@@ -103,4 +103,4 @@ ZodiacChain follows a conservative and transparent regulatory roadmap:
 ---
 
 ## ⚠️ Disclaimer
-*ZodiacChain is currently under technical development. No public real-money betting products are available. All documentation is for demonstration and ecosystem grant purposes.*
+*ZodiacChain is currently under technical development. No public regulated wagering products are available. All documentation is for demonstration and ecosystem grant purposes.*

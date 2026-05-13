@@ -10,11 +10,11 @@ The primary document in this folder is our current proposal for the **Chainlink 
 ---
 
 ## 🎯 Funding Focus: Testnet MVP Phase
-Our current funding round is strictly focused on technical execution and public demonstration. We are not seeking support for real-money operations at this stage. 
+Our current funding round is strictly focused on technical execution and public demonstration. We are not seeking support for regulated commercial operations at this stage. 
 
 ### Core Objectives:
 * **Infrastructure Deployment:** Launching the protocol on the Polygon Amoy Testnet.
-* **Chainlink Integration:** Deep implementation of **Chainlink VRF** (for randomness) and **Chainlink Automation** (for autonomous draw cycles).
+* **Chainlink Integration:** Planned integration of **Chainlink VRF** (for randomness) and **Chainlink Automation** (for autonomous draw cycles).
 * **Public Transparency:** Development of a web-based **Fairness Dashboard** to make on-chain verifiability visible to non-technical users.
 * **Open Documentation:** Maintaining a high standard of technical and product transparency.
 

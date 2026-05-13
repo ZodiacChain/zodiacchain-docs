@@ -25,6 +25,6 @@ The protocol is structured around a dual-dimension system:
 ---
 
 ## ⚠️ Disclaimer
-ZodiacChain is currently in its technical documentation and testnet validation phase. This document describes a protocol designed for verifiable public demonstration and is **not** a real-money gambling platform or a financial offering. 
+ZodiacChain is currently in its technical documentation and testnet validation phase. This document describes a protocol designed for verifiable public demonstration and is **not** a live regulated wagering service or a financial offering. 
 
 For technical integration details and smart contract logic, please refer to the `/architecture/` directory.

@@ -15,7 +15,7 @@ ZodiacChain is designed as a **testnet-first verifiable draw infrastructure**.
 
 The MVP demonstrates how a draw can move through a transparent lifecycle, request verifiable randomness, derive deterministic outcomes, and expose the full verification path through a public **Fairness Dashboard**.
 
-The goal of this architecture is not to launch a real-money betting platform in the initial phase. The goal is to prove that the core draw engine can be:
+The goal of this architecture is not to launch a regulated commercial wagering service in the initial phase. The goal is to prove that the core draw engine can be:
 
 - transparent;
 - deterministic;
@@ -36,7 +36,7 @@ The MVP architecture is designed to support five core goals:
 | Deterministic mapping | Convert random outputs into public results using fixed formulas |
 | Lifecycle transparency | Show every draw state from scheduling to archival |
 | Public auditability | Expose events, timestamps, request references, and result derivation |
-| Testnet-first delivery | Demonstrate the system safely before any production or real-money phase |
+| Testnet-first delivery | Demonstrate the system safely before any regulated commercial phase |
 
 ---
 
@@ -100,7 +100,7 @@ It should allow users and reviewers to:
 
 The frontend must clearly state:
 
-> Testnet MVP only. No real-money operation.
+> Testnet MVP only. No regulated commercial operation.
 
 ---
 
@@ -438,16 +438,16 @@ Future phases may include:
 
 The MVP does not include:
 
-- real-money operation;
-- token presale;
-- investment offering;
-- production betting launch;
+- regulated commercial operation;
+- ZDC-related fundraising or distribution;
+- financial offering;
+- regulated production wagering launch;
 - regulated market launch;
 - KYC/AML implementation;
 - mainnet deployment;
 - production treasury management.
 
-Any future real-money phase would require legal review, jurisdictional planning, security audit, and compliance controls.
+Any future regulated commercial phase would require legal review, jurisdictional planning, security audit, and compliance controls.
 
 ---
 
@@ -491,6 +491,6 @@ The architecture prioritizes:
 - event-driven transparency;
 - public fairness verification.
 
-The goal is not to launch a real-money product immediately.
+The goal is not to launch a regulated commercial product immediately.
 
 The goal is to build a credible, verifiable, grant-ready MVP foundation.
