@@ -2,6 +2,7 @@
 
 **Version:** 1.0  
 **Status:** Public Documentation  
+**Project:** ZodiacChain  
 **Repository:** `zodiacchain-docs`  
 **Project Phase:** Testnet MVP / Public Demonstration  
 **Target Network:** Polygon Amoy Testnet  

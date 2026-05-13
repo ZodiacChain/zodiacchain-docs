@@ -1,8 +1,8 @@
 # 🪐 ZodiacChain
 
-**Decentralized & Verifiable Betting Infrastructure on Polygon**
+**Decentralized & Verifiable Draw Infrastructure on Polygon**
 
-ZodiacChain is a next-generation betting protocol concept inspired by the cultural richness of terrestrial and celestial zodiacs. It is architected as a **trust-minimized infrastructure**, prioritizing provable fairness, mathematical transparency, and a strict **testnet-first** development path.
+ZodiacChain is a next-generation verifiable draw protocol concept inspired by the cultural richness of terrestrial and celestial zodiacs. It is architected as a **trust-minimized infrastructure**, prioritizing provable fairness, mathematical transparency, and a strict **testnet-first** development path.
 
 ---
 
@@ -64,7 +64,7 @@ zodiacchain-docs/
 
 ## 🛡️ Core Trust Primitives
 
-ZodiacChain moves away from "black-box" betting systems by making every step of the process verifiable:
+ZodiacChain moves away from "black-box" draw systems by making every step of the process verifiable:
 
 1.  **Verifiable Randomness:** Planned Chainlink VRF integration for cryptographically secured draw randomness.
 2.  **Autonomous Execution:** Planned Chainlink Automation integration to support impartial lifecycle execution for 4h and daily draw cycles.
