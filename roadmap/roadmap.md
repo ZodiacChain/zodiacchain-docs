@@ -13,7 +13,7 @@ ZodiacChain is being developed as a testnet-first verifiable draw infrastructure
 
 This roadmap shows how the project will move from public documentation and grant readiness toward a working MVP with a verifiable draw lifecycle, deterministic result derivation, Chainlink VRF integration, Chainlink Automation planning, and a public Fairness Dashboard.
 
-This roadmap is intentionally conservative. It does not describe a real-money launch, token presale, or production betting operation.
+This roadmap is intentionally conservative. It describes only public documentation, testnet validation, and MVP readiness; any regulated commercial operation or token-related activity is outside the current scope.
 
 ---
 
@@ -78,7 +78,7 @@ This roadmap is intentionally conservative. It does not describe a real-money la
 - Chainlink VRF relevance is clearly explained
 - Fairness Dashboard concept is documented
 - Testnet-first strategy is clear
-- No real-money launch is implied
+- No regulated commercial operation is implied
 
 ---
 
@@ -240,7 +240,7 @@ The current roadmap does not include:
 
 - real-money operation;
 - mainnet launch;
-- token presale;
+- token-related fundraising or distribution;
 - investment offering;
 - production betting platform;
 - regulated market launch;
