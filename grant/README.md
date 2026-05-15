@@ -9,6 +9,14 @@ The primary document in this folder is our current proposal for the **Chainlink 
 
 ---
 
+## Submission Follow-up
+
+Post-submission updates, public-safe reviewer feedback summaries, and requested follow-up actions are tracked in the official follow-up document:
+
+**[View Chainlink Submission Follow-up Tracker](./chainlink-submission-follow-up.md)**
+
+---
+
 ## 🎯 Funding Focus: Testnet MVP Phase
 Our current funding round is strictly focused on technical execution and public demonstration. We are not seeking support for regulated commercial operations at this stage. 
 
