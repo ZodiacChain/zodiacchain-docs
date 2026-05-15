@@ -17,6 +17,14 @@ Reusable reviewer-facing answers for Chainlink Build and grant evaluation are av
 
 ---
 
+## MVP Demo Script
+
+A repeatable demo runbook for reviewer, partner, and community calls is available in the MVP demo script:
+
+**[View MVP Demo Script](./mvp-demo-script.md)**
+
+---
+
 ## Submission Follow-up
 
 Post-submission updates, public-safe reviewer feedback summaries, and requested follow-up actions are tracked in the official follow-up document:
