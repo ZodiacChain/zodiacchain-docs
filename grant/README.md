@@ -9,6 +9,14 @@ The primary document in this folder is our current proposal for the **Chainlink 
 
 ---
 
+## Grant Reviewer Q&A
+
+Reusable reviewer-facing answers for Chainlink Build and grant evaluation are available in the public Q&A document:
+
+**[View Grant Reviewer Q&A](./grant-reviewer-q-and-a.md)**
+
+---
+
 ## Submission Follow-up
 
 Post-submission updates, public-safe reviewer feedback summaries, and requested follow-up actions are tracked in the official follow-up document:

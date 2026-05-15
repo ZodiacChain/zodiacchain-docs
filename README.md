@@ -23,6 +23,7 @@ This repository serves as the central hub for our technical and strategic docume
 
 * **[Strategic Whitepaper](whitepaper/ZodiacChain_Whitepaper.pdf)**: Detailed protocol architecture and mathematical derivation models.
 * **[Chainlink Grant Memo](grant/ZodiacChain_ChainLink_Grant.pdf)**: Our official funding proposal, milestone breakdown, and infrastructure budget.
+* **[Grant Reviewer Q&A](grant/grant-reviewer-q-and-a.md)**: Reusable answers for Chainlink Build and grant evaluation.
 * **[Public Roadmap](roadmap/roadmap.md)**: Milestone-based path from documentation and grant readiness to the testnet MVP and Fairness Dashboard.
 
 ### Architecture & Diagrams
