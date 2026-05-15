@@ -32,6 +32,10 @@ This repository serves as the central hub for our technical and strategic docume
 * **[Technical Architecture Overview](architecture/overview.md)**: High-level view of ZodiacChain's architecture and core system components.
 * **[Verifiable Draw Lifecycle Diagram](assets/diagrams/verifiable-draw-lifecycle.md)**: Visual flow of the draw process from scheduling to public verification.
 * **[Visual Assets](assets/README.md)**: Brand assets and documentation diagrams used across project materials.
+
+### Implementation
+
+* **[ZodiacChain MVP Repository](https://github.com/ZodiacChain/zodiacchain-mvp)**: Dedicated implementation repository for contracts, backend, frontend, scripts, and internal MVP engineering notes.
    
 ---
 
