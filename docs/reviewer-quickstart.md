@@ -38,13 +38,13 @@ Chainlink Automation matters because the draw lifecycle should not rely indefini
 
 Automation-compatible execution can support:
 
-- closing a draw after the configured entry window;
 - triggering the randomness request after entries are locked;
+- resolving the draw after randomness fulfillment;
 - moving the draw through predictable lifecycle transitions;
 - reducing reliance on manual execution paths;
 - preparing the contracts for `checkUpkeep` / `performUpkeep` style testnet execution.
 
-The MVP can begin with mock or manual lifecycle transitions, but the architecture is designed so Chainlink Automation can later execute eligible lifecycle steps in a more consistent and auditable way.
+In the current MVP plan, opening and closing draws remain operator-controlled while the first Automation-compatible paths focus on post-close execution: requesting randomness when a draw is `Closed`, and resolving the draw after randomness has been fulfilled. The broader architecture remains compatible with automated closing later, but the reviewer-facing MVP keeps that distinction explicit.
 
 ## 4. What does the MVP demonstrate?
 
@@ -87,6 +87,22 @@ npm.cmd install
 npm.cmd run check
 ```
 
+To run the current MVP demo locally, start the mock API and frontend from the `zodiacchain-mvp` repository root:
+
+```bash
+npm run dev -w @zodiacchain/backend
+npm run dev -w @zodiacchain/frontend
+```
+
+PowerShell-safe equivalents:
+
+```bash
+npm.cmd run dev -w @zodiacchain/backend
+npm.cmd run dev -w @zodiacchain/frontend
+```
+
+The backend mock API listens on `127.0.0.1:4000` by default. The frontend is a Vite app hosted on `127.0.0.1`; use the local URL printed by the frontend command.
+
 The MVP repository is organized around `frontend`, `backend`, and `contracts` npm workspaces. Its current public README documents Node.js `22.14.0` or newer and npm `10.9.2` or newer as prerequisites.
 
 ## 6. Where is the Fairness Dashboard?
@@ -106,10 +122,10 @@ The current review flow may use mock or placeholder evidence while the testnet M
 
 Mock today means:
 
-- demo draw IDs such as `mock-draw-001`;
-- demo entry IDs such as `mock-entry-001`;
-- mock VRF request references such as `mock-request-001`;
-- placeholder random words for deterministic derivation walkthroughs;
+- active reviewer draw ID `AMOY-DEMO-042`;
+- demo entry ID `entry-demo-042-reviewer-a17`;
+- mock VRF request reference `req-demo-2026-05-16-042`;
+- displayed mock random words such as terrestrial word `0x04` and celestial word `0x10`;
 - mock API or read-layer responses before full contract integration;
 - dashboard event timelines that explain expected events before live Amoy transactions exist;
 - placeholder transaction hashes and explorer links until testnet evidence is available.
